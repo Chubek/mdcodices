@@ -1,4 +1,4 @@
-# HTTP, Web and Application Layer Protocols: Long, but Brief
+# HTTP, Web and Application Layer Protocols: Long, but Brief --- A Markdown Codex by Honorable Charlse Foster Kane, Phd, Md, DDS
 
 Use this menu to navigate to each section. It is not guaranteed that the sections will be self-contained..
 
@@ -6,13 +6,13 @@ Use this menu to navigate to each section. It is not guaranteed that the section
 * [Errata](#errata)
 * [Internet and The Internet](#internet-and-the-internet)
 * [Protocol Stacks](#protocol-stacks)
-* [Application-Layer Protocols in TCP/IP](#application-later-protocols-in-tcp-ip]
-* [Gartner Model of the Web and its Evoltion](#gartner-model-of-web-and-its-evolution)
+* [Application-Layer Protocols in TCP/IP](#application-layer-protocols-in-tcpip)
+* [Gartner Model of the Web and its Evoltion](#gartner-model-of-the-web-and-its-evoltion)
 * [The Structure of HTTP](#the-structure-of-http)
 * [WWW and DNS](#www-and-dns)
-* [Web Frameworks and Web Services](web-frameworks-and-web-services]
-* [A Very Simple and Inadequate HTTP Framework Implementation](#a-very-simple-and-inadequate-http-framework)
-* [CGI, RPC via HTTP, SSL/TSL and HTTP Proxies](#cgi-rpc-via-http-ssl-tsl-and-http-proxies)
+* [Web Frameworks and Web Services](#web-frameworks-and-web-services)
+* [A Very Simple and Inadequate HTTP Framework Implementation](#a-very-simple-and-inadequate-http-framework-implementation)
+* [CGI, RPC via HTTP, SSL/TSL and HTTP Proxies](#cgi-rpc-via-http-ssltsl-and-http-proxies)
 * [Finishing Thoughts](#finishing-thoughts)
 
 ## Preface
